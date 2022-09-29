@@ -40,32 +40,3 @@ while d==1:
             break
         d=int(input("si desea encender el vehiculo nuevamente presione 1"))
         print("el vehiculo se a encendido")
-
-                
-
-            
-
-
-                
-
-
-
-
-            
-           
-        
-
-
-
-        
-            
-
-
-    
-        
-
-
-
-
-
-
